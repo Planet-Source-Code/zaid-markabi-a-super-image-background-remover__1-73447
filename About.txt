@@ -1,0 +1,12 @@
+Image Background Remover - 2010.9.20
+
+This code let you to Remove Background of Image by selecting a Part of This Background.
+then the application will remove the Whole Background automatically.
+Very Easy tool, Fast Simple ans Powerful to Extract Objects from images.
+
+_________________________
+ Zaid Markabi
+  Arabic Syrian student
+
+Email : zaidmarkabi@yahoo.com
+Website : yazanmarkabi.com  or  yazanmarkabi.webs.com
